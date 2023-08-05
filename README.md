@@ -80,7 +80,7 @@ mysql> exit
 mysql> CREATE DATABASE `sakila`;
 mysql> SHOW DATABASES;
 mysql> exit
-export DBNAME=sakila
+# export DBNAME=sakila
 # mysql -u sys_test -p ${DBNAME} < /root/sakila-db/sakila-schema.sql
 # mysql -u sys_test -p ${DBNAME} < /root/sakila-db/sakila-data.sql
 # mysql -u sys_test -p
