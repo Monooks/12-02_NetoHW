@@ -87,7 +87,6 @@ mysql> exit
 mysql> SHOW DATABASES;
 mysql> USE sakila;
 mysql> SHOW TABLES;
-
 ```
 
 ---
